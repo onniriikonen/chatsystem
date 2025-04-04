@@ -5,4 +5,4 @@ User gets feedback messages such as when /join #channel, client sees: Joined cha
 
 Each client connection is handled by a dedicated thread, data is stored in  efiicient structures and design is modular, making system scalable.
 
-AI tools were not used in this assignment.
+ChatGPT was used to troubleshoot errors and brainstorm ideas.
